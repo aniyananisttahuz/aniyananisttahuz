@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aniyananisttahuz
 - 👀 I’m interested in Azure Administrator
 - 🌱 I’m currently learning Cloud
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Cloud Dev
 - 📫 How to reach me : aniyana@aol.com
 
 <!---
